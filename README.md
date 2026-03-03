@@ -39,26 +39,26 @@
 
 #### 01 - Tela Principal e seleção
 
-##### O Spinner no topo permite navegar entre os títulos das fotos carregadas. 
+O Spinner no topo permite navegar entre os títulos das fotos carregadas. 
 
 <img src="Screen%20Project/01%20Screen.png" alt="Tela Principal e seleção" width="400"/>
-##### Ao selecionar, o app dispara requisições para buscar a imagem principal e a miniatura.
+Ao selecionar, o app dispara requisições para buscar a imagem principal e a miniatura.
 
 #### 02 - Carregamento de Imagens
 
 <img src="Screen%20Project/02%20Screen.png" alt="Carregamento das imagens" width="400"/>
-##### As imagens são carregadas.
+As imagens são carregadas.
 
 #### 03 - Cards & Progressbars
 
 <img src="Screen%20Project/03%20melhorias%20(progressbar%20e%20bordas).png" alt="Cards and Progressbars" width="400"/>
-##### Exercicio de fixação (melhorias nas bordas e centralização da imagem.)
+Exercicio de fixação (melhorias nas bordas e centralização da imagem.)
 
 #### 04 - Cards & Progressbars
 
 
 <img src="Screen%20Project/04%20melhorias%20(progressbar%20e%20bordas).png" alt="Cards & Progressbars" width="400"/>
-##### Exercicio de fixação (melhorias nas bordas e centralização da imagem.
+Exercicio de fixação (melhorias nas bordas e centralização da imagem.
 
 #### 05 - 🎥 Vídeo Screen
 
@@ -71,17 +71,15 @@
 
 ##### 1. Clone este repositório:
 ###### git clone https://github.com/MADS1974/Photos.git
-##### 2 .Abra o projeto no Android Studio.
-##### 3 .Aguarde a sincronização do Gradle.
-##### 4 .Certifique-se de que o dispositivo/emulador tenha acesso à Internet.
+##### 2. Abra o projeto no Android Studio.
+##### 3. Aguarde a sincronização do Gradle.
+##### 4. Certifique-se de que o dispositivo/emulador tenha acesso à Internet.
 ##### 5. Execute o app.
 
 
 #### 📚 Créditos
 
-##### Projeto acadêmico desenvolvido para a disciplina Desenvolvimento para Android 
-
-2 – D2DA2, ministrada pelo professor Pedro Northon Nobile (IFSP).
+##### Projeto acadêmico desenvolvido para a disciplina Desenvolvimento para Android 2 – D2DA2, ministrada pelo professor Pedro Northon Nobile (IFSP).
 
 #### 🙋‍♂️ AutorMárcio Adriano
 
