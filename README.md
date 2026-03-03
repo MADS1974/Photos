@@ -79,7 +79,9 @@ Exercicio de fixação (melhorias nas bordas e centralização da imagem.
 #### 5.Execute o app.
 
 
-#### 📚 CréditosProjeto acadêmico desenvolvido para a disciplina Desenvolvimento para Android 
+#### 📚 Créditos
+
+Projeto acadêmico desenvolvido para a disciplina Desenvolvimento para Android 
 
 
 
@@ -88,4 +90,5 @@ Exercicio de fixação (melhorias nas bordas e centralização da imagem.
 #### 🙋‍♂️ AutorMárcio Adriano
 
 🔗 Conecte-se comigo:
-LinkedIn - Márcio AdrianoDica para o GitHub
+LinkedIn - Márcio Adriano
+
