@@ -3,4 +3,6 @@
     <string name="request_problem">Request problem.</string>
     <string name="connection_failed">Connection failed.</string>
     <string name="response_problem">Response problem.</string>
+    <string name="miniatura_150x150">Miniatura (150x150):</string>
+    <string name="imagem_principal_600x600">Imagem Principal (600x600):</string>
 </resources>
