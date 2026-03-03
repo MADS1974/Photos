@@ -5,7 +5,7 @@ O objetivo principal é demonstrar a integração com serviços web, processamen
 a biblioteca Volley.
 
 
-## Este projeto foi criado para fins acadêmicos no contexto da disciplina D2DA2 - Des. Android 2, com foco em:
+#### Este projeto foi criado para fins acadêmicos no contexto da disciplina D2DA2 - Des. Android 2, com foco em:
 
 #### •Consumo de APIs REST com Volley (JsonArrayRequest)
 #### •Processamento de dados JSON para objetos Kotlin usando Gson
@@ -65,7 +65,7 @@ Exercicio de fixação (melhorias nas bordas e centralização da imagem.
 #### 05 - 🎥 Vídeo Screen
 
 
-👉 [Click here and Click view](./Screen%20Project/05%20Screen_recording_20260303_150648.mp4)
+👉 [Click here and Click View raw](./Screen%20Project/05%20Screen_recording_20260303_150648.mp4)
 
 
 
